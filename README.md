@@ -29,7 +29,7 @@ This course is made possible thanks to [namespace.so](https://namespace.so/?utm_
 
 ## Development Environment Setup
 
-1. **Clone this repository (including submodules)**  
+1. **Clone this repository (including submodules)**  !UPDATED FOR THIS REPO!
 ```bash
 git clone --recurse-submodules git@github.com:sidpalas/devops-directive-github-actions-course-mooncopy.git
 ```
